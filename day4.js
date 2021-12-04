@@ -1,4 +1,4 @@
-const data = require('./day1_data.js');
+const data = require('./day4_data.js');
 
 let count = 0;
 
